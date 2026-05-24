@@ -104,11 +104,10 @@ OR use VS Code Live Server extension for better development experience.
 
 Add your screenshots inside a `screenshots` folder.
 
-```md
-![Chat UI](./screenshots/chat1.png)
+<img width="678" height="657" alt="Screenshot 2026-05-24 at 7 40 24 PM" src="https://github.com/user-attachments/assets/c0bdf2ca-c2c9-4d50-8e1a-54c273aa6c38" />
 
-![Realtime Chat](./screenshots/chat2.png)
-```
+<img width="678" height="657" alt="Screenshot 2026-05-24 at 7 40 28 PM" src="https://github.com/user-attachments/assets/b8b44ed3-2dc1-4c9f-ab4c-27b5cbebd615" />
+
 
 ---
 
